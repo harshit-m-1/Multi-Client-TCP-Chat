@@ -14,7 +14,3 @@ To run this program, you need Visual Studio C++. Download the program and run th
 
 For testing purposes, the IP address of the server is set to 127.0.0.1, which is the local host. If the need be, you can change it to a specific IP address. 
 
-
-# Example
-
-![alt text](https://image.noelshack.com/fichiers/2019/16/4/1555620586-screenshot-of-tcp-chat.png)
